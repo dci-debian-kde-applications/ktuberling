@@ -1,0 +1,37 @@
+Source: ktuberling
+Section: games
+Priority: optional
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Daniel Schepler <schepler@debian.org>,
+ Sune Vuorela <sune@debian.org>,
+ Fathi Boudra <fabo@debian.org>,
+ Modestas Vainius <modax@debian.org>,
+ George Kiagiadakis <gkiagiad@csd.uoc.gr>,
+ Eshat Cakar <info@eshat.de>,
+ Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
+ Maximiliano Curia <maxy@debian.org>
+Build-Depends: kde-sc-dev-latest (>= 4:4.10.2),
+ cmake, debhelper (>= 9), pkg-kde-tools (>= 0.14),
+ kdelibs5-dev (>= 4:4.10),
+ libkdegames-dev (>= 4:4.10)
+Standards-Version: 3.9.4
+Homepage: http://games.kde.org/
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/ktuberling.git
+Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/ktuberling.git
+
+Package: ktuberling
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: khelpcenter4
+Description: stamp drawing toy 
+ KTuberling is a drawing toy for small children with several activites.
+ .
+  * Give the potato a funny face, clothes, and other goodies
+  * Build a small town, complete with school, zoo, and fire department
+  * Create a fantastic moonscape with spaceships and aliens
+ .
+ KTuberling can speak the name of each the object in several languages,
+ to assist in learning basic vocabulary.
+ .
+ This package is part of the KDE games module.
+

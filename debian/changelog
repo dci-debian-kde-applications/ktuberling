@@ -1,8 +1,8 @@
-ktuberling (4:4.14.0-1) UNRELEASED; urgency=medium
+ktuberling (4:4.14.0-1) unstable; urgency=medium
 
   * New upstream release.
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 22 Aug 2014 06:20:46 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 23 Aug 2014 00:55:06 +0200
 
 ktuberling (4:4.12.4-1) unstable; urgency=medium
 

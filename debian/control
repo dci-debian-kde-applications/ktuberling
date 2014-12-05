@@ -24,7 +24,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/ktuberling.git
 Package: ktuberling
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: stamp drawing toy
  KTuberling is a drawing toy for small children with several activites.
  .

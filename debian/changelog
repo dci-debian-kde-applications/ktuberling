@@ -1,7 +1,13 @@
+ktuberling (4:14.12.2-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (14.12.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 17:58:57 +0100
+
 ktuberling (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Remove unstable from watch file, uscan fails with 
+  * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 08:09:33 -0800
@@ -34,7 +40,7 @@ ktuberling (4:4.14.2-0ubuntu1) vivid; urgency=medium
 ktuberling (4:4.14.1-0ubuntu1) utopic; urgency=medium
 
   * New upstream release
-  * Removed patch upstream_qreal-fix.diff applied upstream. 
+  * Removed patch upstream_qreal-fix.diff applied upstream.
 
  -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Mon, 22 Sep 2014 17:40:21 +0200
 
@@ -295,4 +301,3 @@ ktuberling (4:4.9.90-0ubuntu1) raring-proposed; urgency=low
   * Initial release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Dec 2012 18:09:35 +0000
-

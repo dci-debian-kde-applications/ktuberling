@@ -1,7 +1,7 @@
 ktuberling (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
-  * New upstream release
+  * kde4 games need to depend on the 14.12 series libkdegames. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 22:40:28 -0700
 

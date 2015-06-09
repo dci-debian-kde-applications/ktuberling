@@ -1,4 +1,4 @@
-ktuberling (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
+ktuberling (4:15.04.2-0ubuntu1) wily; urgency=medium
 
   [ Scarlett Clark ]
   * New upstream release
@@ -7,7 +7,7 @@ ktuberling (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
   [ Jonathan Riddell ]
   * New upstream release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 06 Jun 2015 02:06:32 +0200
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 19:39:21 +0200
 
 ktuberling (4:14.12.3-0ubuntu1) vivid; urgency=medium
 

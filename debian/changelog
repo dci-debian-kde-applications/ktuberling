@@ -1,8 +1,9 @@
-ktuberling (4:15.12.0-1~) UNRELEASED; urgency=medium
+ktuberling (4:15.12.1-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.12.0).
+  * New upstream release (15.12.1).
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Dec 2015 16:17:37 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 29 Jan 2016 11:20:51 +0100
 
 ktuberling (4:14.12.2-1) experimental; urgency=medium
 

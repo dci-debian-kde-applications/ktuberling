@@ -1,8 +1,11 @@
-ktuberling (4:15.12.2-1~) UNRELEASED; urgency=medium
+ktuberling (4:16.04.0-1~1.gbp9f16f9) UNRELEASED; urgency=medium
 
-  * New upstream release (15.12.2).
+  ** SNAPSHOT build @9f16f914f320a940cb525cec05001b8a7fe4b528 **
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:59:18 +0100
+  * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 04:40:16 +0200
 
 ktuberling (4:15.12.1-1) experimental; urgency=medium
 

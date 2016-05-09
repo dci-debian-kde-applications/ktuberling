@@ -1,11 +1,20 @@
-ktuberling (4:16.04.0-1~1.gbp9f16f9) UNRELEASED; urgency=medium
+ktuberling (4:16.04.0-1~2.gbp651a1d) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @651a1dcf821b2b11b9faf7a014b079040b9e2295 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @9f16f914f320a940cb525cec05001b8a7fe4b528 **
 
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 04:40:16 +0200
+  [ Maximiliano Curia ]
+  * Remove menu file and friends
+  * New upstream release (15.12.2).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:40:15 +0200
 
 ktuberling (4:15.12.1-1) experimental; urgency=medium
 

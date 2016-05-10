@@ -1,11 +1,12 @@
-ktuberling (4:16.04.0-1~2.gbp651a1d) UNRELEASED; urgency=medium
+ktuberling (4:16.04.1-1~1.gbpcec686) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @651a1dcf821b2b11b9faf7a014b079040b9e2295 **
+  ** SNAPSHOT build @cec68681232040fb33751a4274db437365fc15db **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @9f16f914f320a940cb525cec05001b8a7fe4b528 **
 
   * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
   * Update build-deps and deps with the info from cmake
 
   [ Maximiliano Curia ]
@@ -14,7 +15,7 @@ ktuberling (4:16.04.0-1~2.gbp651a1d) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:40:15 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 10 May 2016 22:40:19 +0200
 
 ktuberling (4:15.12.1-1) experimental; urgency=medium
 

@@ -1,10 +1,8 @@
-ktuberling (4:16.04.2-1~1.gbpea9aae) UNRELEASED; urgency=medium
+ktuberling (4:16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @ea9aae90beec86b70b50147632f6d2b01e3c6ec5 **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 04:40:14 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jun 2016 21:58:43 +0200
 
 ktuberling (4:16.04.1-1) unstable; urgency=medium
 

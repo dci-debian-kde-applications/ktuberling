@@ -1,14 +1,23 @@
-ktuberling (4:16.04.1-0neon) xenial; urgency=medium
+ktuberling (4:16.04.2-1) unstable; urgency=medium
 
-  * New release
+  * New upstream release.
 
- -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:44:31 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jun 2016 21:58:43 +0200
 
-ktuberling (4:15.12.2-1~) UNRELEASED; urgency=medium
+ktuberling (4:16.04.1-1) unstable; urgency=medium
 
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+  * Remove menu file and friends
   * New upstream release (15.12.2).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:59:18 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:51:08 +0200
 
 ktuberling (4:15.12.1-1) experimental; urgency=medium
 

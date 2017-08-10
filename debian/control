@@ -45,6 +45,8 @@ Package: ktuberling
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: stamp drawing toy
  KTuberling is a drawing toy for small children with several activites.
  .

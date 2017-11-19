@@ -1,5 +1,8 @@
 ktuberling (4:17.08.3-2) UNRELEASED; urgency=medium
 
+  [ Pino Toscano ]
+  * Bump l10npkgs_firstversion_ok to 4:16.04.3-3~, since that version removes
+    also the translated data (now shipped in this source).
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 19 Nov 2017 10:06:48 +0100
 
